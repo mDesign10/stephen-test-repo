@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "377946596608",
+    "firebase_url": "https://clinicalmsgqa1.firebaseio.com",
+    "project_id": "clinicalmsgqa1",
+    "storage_bucket": "clinicalmsgqa1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377946596608:android:c1077a71b15ff667",
+        "android_client_info": {
+          "package_name": "com.cti.cm.simulation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "377946596608-ja729u7ch3appudd7oupoadi6m5v0jcg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBA_EgQsuNfownX70KR0YIAX72-2HtJWmE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

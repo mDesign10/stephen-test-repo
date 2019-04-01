@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<managedAppConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="/com.mobileiron.onetouch/appconfig/appconfig.xsd">
+    <version>1.3.0</version>
+    <bundleId>com.cti.cm.simulation</bundleId>
+    <dict>
+        <string keyName="debugMode"/>
+        <string keyName="qaMode"/>
+        <string keyName="xmppUrl"/>
+        <string keyName="xmppDomain"/>
+        <string keyName="xmppPingInterval"/>
+        <string keyName="xmppPingTimeout"/>
+        <string keyName="maxParticipants"/>
+        <string keyName="showParticipantCountFrom"/>
+        <string keyName="chatFetchBatchSize"/>
+        <string keyName="photoQuality"/>
+        <string keyName="disableInsomniaDelay"/>
+        <string keyName="insomniaLimit"/>
+        <string keyName="RELEASE_DEBUGGING"/>
+    </dict>
+</managedAppConfiguration>

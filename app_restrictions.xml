@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<restrictions xmlns:android="http://schemas.android.com/apk/res/android">
+    <restriction android:key="debugMode" android:title="debugMode" android:restrictionType="string"/>
+    <restriction android:key="qaMode" android:title="qaMode" android:restrictionType="string"/>
+    <restriction android:key="xmppUrl" android:title="xmppUrl" android:restrictionType="string"/>
+    <restriction android:key="xmppDomain" android:title="xmppDomain" android:restrictionType="string"/>
+    <restriction android:key="xmppPingInterval" android:title="xmppPingInterval" android:restrictionType="string"/>
+    <restriction android:key="xmppPingTimeout" android:title="xmppPingTimeout" android:restrictionType="string"/>
+    <restriction android:key="maxParticipants" android:title="maxParticipants" android:restrictionType="string"/>
+    <restriction android:key="showParticipantCountFrom" android:title="showParticipantCountFrom" android:restrictionType="string"/>
+    <restriction android:key="chatFetchBatchSize" android:title="chatFetchBatchSize" android:restrictionType="string"/>
+    <restriction android:key="photoQuality" android:title="photoQuality" android:restrictionType="string"/>
+    <restriction android:key="disableInsomniaDelay" android:title="disableInsomniaDelay" android:restrictionType="string"/>
+    <restriction android:key="insomniaLimit" android:title="insomniaLimit" android:restrictionType="string"/>
+    <restriction android:key="RELEASE_DEBUGGING" android:title="RELEASE_DEBUGGING" android:restrictionType="string"/>
+</restrictions>
